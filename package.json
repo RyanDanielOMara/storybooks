@@ -1,0 +1,23 @@
+{
+  "name": "storybooks",
+  "version": "1.0.0",
+  "description": "Application being made to help me learn about implementing social network like functionalities in an application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanDanielOMara/storybooks.git"
+  },
+  "author": "Ryan O'Mara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanDanielOMara/storybooks/issues"
+  },
+  "homepage": "https://github.com/RyanDanielOMara/storybooks#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
